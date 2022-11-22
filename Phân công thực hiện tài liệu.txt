@@ -1,0 +1,14 @@
+1. Vũ Trường Giang   - Tài liệu kế hoạch thực hiện dự án
+                  
+
+2. Trần Văn Toàn     - Tài liệu thiết kế cơ sở dữ liệu
+		  
+
+3. Hồ Huy Luật       - Tài liệu thiết kế phần mềm
+
+
+4. Trần Hoàng Thái   - Tài liệu nghiên cứu tính khả thi
+		     - Tài liệu testcase
+
+
+5. Nguyễn Hữu Thọ    - Tài liệu đặc tả yêu cầu
